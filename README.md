@@ -123,7 +123,7 @@ Table of Contents
   * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories for free
   * [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories, free for public or personal repos
   * [sonarqube.com](https://sonarqube.com) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
-
+  * [developers.google.com](https://developers.google.com/speed/pagespeed/insights/) — scans website gives suggestions on performance improvements.
 ## Code Search and Browsing
 
   * [libraries.io](https://libraries.io/) — Search and dependency update notifications for 32 different package managers, free for open source
